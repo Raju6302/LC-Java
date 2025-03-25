@@ -22,6 +22,7 @@
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
@@ -45,6 +46,7 @@
 | [0100-same-tree](https://github.com/Raju6302/LC-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,4 +65,17 @@
 | [0100-same-tree](https://github.com/Raju6302/LC-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

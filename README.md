@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Raju6302/LC-Java/tree/master/0203-remove-linked-list-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raju6302/LC-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->

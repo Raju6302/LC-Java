@@ -51,18 +51,21 @@
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raju6302/LC-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raju6302/LC-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -94,4 +98,9 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
+## Union Find
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->

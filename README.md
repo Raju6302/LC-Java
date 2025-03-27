@@ -16,10 +16,12 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
+| [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
+| [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 ## Design
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->

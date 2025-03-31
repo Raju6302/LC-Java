@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 ## Hash Table
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

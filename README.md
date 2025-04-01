@@ -18,6 +18,7 @@
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
+| [2262-solving-questions-with-brainpower](https://github.com/Raju6302/LC-Java/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/Raju6302/LC-Java/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->

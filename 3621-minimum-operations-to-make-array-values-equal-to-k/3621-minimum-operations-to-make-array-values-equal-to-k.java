@@ -1,21 +1,16 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
+        boolean[] seen = new boolean[101];
+        int count = 0;
+
         for (int num : nums) {
             if (num < k) return -1;
+            if (num > k && !seen[num]) {
+                seen[num] = true;
+                count++;
+            }
         }
 
-        Set<Integer> unique = new HashSet<>();
-        for (int num : nums) {
-            if (num > k) unique.add(num);
-        }
-
-        int operations = 0;
-        while (!unique.isEmpty()) {
-            int max = Collections.max(unique);
-            unique.remove(max);
-            operations++;
-        }
-
-        return operations;
+        return count;
     }
 }

@@ -24,6 +24,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Raju6302/LC-Java/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Raju6302/LC-Java/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Raju6302/LC-Java/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Raju6302/LC-Java/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Raju6302/LC-Java/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
 |  |

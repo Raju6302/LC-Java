@@ -49,6 +49,7 @@
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raju6302/LC-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Raju6302/LC-Java/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -152,4 +153,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Raju6302/LC-Java/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

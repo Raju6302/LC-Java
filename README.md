@@ -24,6 +24,7 @@
 | [1656-count-good-triplets](https://github.com/Raju6302/LC-Java/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/Raju6302/LC-Java/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Raju6302/LC-Java/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Raju6302/LC-Java/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,4 +164,24 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Raju6302/LC-Java/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Raju6302/LC-Java/tree/master/3548-find-the-count-of-good-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->

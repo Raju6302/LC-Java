@@ -41,17 +41,17 @@ class Solution {
         FenwickTree leftTree = new FenwickTree(n);
         FenwickTree rightTree = new FenwickTree(n);
         for (int x : transformed) {
-            rightTree.update(x, 1); // Initially, all elements are in right tree
+            rightTree.update(x, 1);
         }
 
         long count = 0;
         for (int i = 0; i < n; i++) {
             int curr = transformed[i];
-            rightTree.update(curr, -1); // Move curr from right to current
-            int leftCount = leftTree.query(curr - 1); // smaller than curr on left
-            int rightCount = rightTree.rangeQuery(curr + 1, n); // greater than curr on right
+            rightTree.update(curr, -1);
+            int leftCount = leftTree.query(curr - 1);
+            int rightCount = rightTree.rangeQuery(curr + 1, n);
             count += (long) leftCount * rightCount;
-            leftTree.update(curr, 1); // Add curr to left
+            leftTree.update(curr, 1);
         }
         return count;
     }

@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Raju6302/LC-Java/tree/master/0038-count-and-say) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |

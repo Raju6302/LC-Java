@@ -22,6 +22,7 @@
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Raju6302/LC-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Raju6302/LC-Java/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Prefix Sum
 |  |

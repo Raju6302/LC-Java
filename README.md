@@ -44,6 +44,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Raju6302/LC-Java/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Raju6302/LC-Java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Raju6302/LC-Java/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Raju6302/LC-Java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -144,6 +145,7 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Raju6302/LC-Java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Raju6302/LC-Java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -270,8 +273,10 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Raju6302/LC-Java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Raju6302/LC-Java/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->

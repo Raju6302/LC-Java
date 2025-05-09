@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Raju6302/LC-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting

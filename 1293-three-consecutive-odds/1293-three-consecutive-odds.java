@@ -11,6 +11,6 @@ class Solution {
             }
  
         }
-        return count == 3 ? true : false;
+        return count == 3;
     }
 }

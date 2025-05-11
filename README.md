@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Raju6302/LC-Java/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |

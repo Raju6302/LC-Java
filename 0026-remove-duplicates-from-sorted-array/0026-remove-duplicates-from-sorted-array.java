@@ -10,6 +10,6 @@ class Solution {
             }
         }
        
-      return res+1;
+      return res + 1;
     }
 }

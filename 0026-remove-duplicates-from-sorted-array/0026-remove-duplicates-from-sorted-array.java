@@ -5,8 +5,8 @@ class Solution {
         int res = 0;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] != nums[res]) {
+                nums[res + 1] = nums[i];
                 res++;
-                nums[res] = nums[i];
             }
         }
        

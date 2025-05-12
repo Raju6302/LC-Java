@@ -8,6 +8,7 @@ class Solution {
                 count++;
             } else if (count == 0) {
                 element = nums[i];
+                count = 1;
             } else {
                 count--;
             }

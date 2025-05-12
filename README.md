@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Raju6302/LC-Java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raju6302/LC-Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Raju6302/LC-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

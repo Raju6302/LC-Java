@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Raju6302/LC-Java/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Raju6302/LC-Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -246,6 +249,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -304,6 +308,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Matrix
 |  |

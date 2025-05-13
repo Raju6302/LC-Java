@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Raju6302/LC-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raju6302/LC-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raju6302/LC-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raju6302/LC-Java/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |

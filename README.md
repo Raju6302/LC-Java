@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Raju6302/LC-Java/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raju6302/LC-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Raju6302/LC-Java/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Raju6302/LC-Java/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array

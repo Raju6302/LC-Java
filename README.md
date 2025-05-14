@@ -99,6 +99,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Raju6302/LC-Java/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Raju6302/LC-Java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Raju6302/LC-Java/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
 |  |
@@ -128,6 +129,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Raju6302/LC-Java/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Raju6302/LC-Java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Raju6302/LC-Java/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -138,6 +140,7 @@
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Raju6302/LC-Java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Raju6302/LC-Java/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -267,6 +270,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Raju6302/LC-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Raju6302/LC-Java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Raju6302/LC-Java/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -353,6 +357,7 @@
 | [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Raju6302/LC-Java/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Matrix
 |  |
 | ------- |

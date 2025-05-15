@@ -8,6 +8,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Raju6302/LC-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Raju6302/LC-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raju6302/LC-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Raju6302/LC-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Raju6302/LC-Java/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raju6302/LC-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [0141-linked-list-cycle](https://github.com/Raju6302/LC-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raju6302/LC-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Raju6302/LC-Java/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0908-middle-of-the-linked-list) |

@@ -12,6 +12,7 @@
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raju6302/LC-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Raju6302/LC-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0283-move-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Raju6302/LC-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raju6302/LC-Java/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting

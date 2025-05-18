@@ -74,6 +74,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Raju6302/LC-Java/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Raju6302/LC-Java/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Raju6302/LC-Java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Raju6302/LC-Java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Raju6302/LC-Java/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Raju6302/LC-Java/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -147,6 +148,7 @@
 | [0038-count-and-say](https://github.com/Raju6302/LC-Java/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Raju6302/LC-Java/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Raju6302/LC-Java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Raju6302/LC-Java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -283,6 +285,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Raju6302/LC-Java/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Raju6302/LC-Java/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Raju6302/LC-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Raju6302/LC-Java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Raju6302/LC-Java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Raju6302/LC-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Raju6302/LC-Java/tree/master/3629-total-characters-in-string-after-transformations-i) |

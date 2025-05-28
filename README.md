@@ -183,6 +183,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Raju6302/LC-Java/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Raju6302/LC-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Raju6302/LC-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Raju6302/LC-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |

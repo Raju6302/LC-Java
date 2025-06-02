@@ -38,6 +38,7 @@
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Raju6302/LC-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raju6302/LC-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Raju6302/LC-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Raju6302/LC-Java/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raju6302/LC-Java/tree/master/0162-find-peak-element) |
@@ -380,6 +381,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Raju6302/LC-Java/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

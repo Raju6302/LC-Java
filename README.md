@@ -164,6 +164,7 @@
 | [0038-count-and-say](https://github.com/Raju6302/LC-Java/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Raju6302/LC-Java/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Raju6302/LC-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Raju6302/LC-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Raju6302/LC-Java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Raju6302/LC-Java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -278,6 +279,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Raju6302/LC-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 ## Two Pointers
 |  |

@@ -203,6 +203,7 @@
 | [0100-same-tree](https://github.com/Raju6302/LC-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raju6302/LC-Java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Raju6302/LC-Java/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Raju6302/LC-Java/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Raju6302/LC-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -460,4 +461,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Raju6302/LC-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Raju6302/LC-Java/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

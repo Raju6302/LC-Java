@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Raju6302/LC-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -302,6 +303,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raju6302/LC-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Raju6302/LC-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
@@ -411,6 +413,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raju6302/LC-Java/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Raju6302/LC-Java/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |

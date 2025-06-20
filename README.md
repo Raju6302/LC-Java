@@ -51,6 +51,7 @@
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Raju6302/LC-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Raju6302/LC-Java/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Raju6302/LC-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Raju6302/LC-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
@@ -491,4 +493,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Raju6302/LC-Java/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Raju6302/LC-Java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

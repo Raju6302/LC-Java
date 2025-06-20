@@ -9,11 +9,7 @@ class Solution {
             }
 
             if (i < n) {
-                if (!stack.empty()) {
-                    nge[i] = stack.peek();
-                } else {
-                    nge[i] = -1;
-                }
+                nge[i] = stack.empty() ? -1 : stack.peek(); 
             }
 
             stack.push(nums[i % n]);

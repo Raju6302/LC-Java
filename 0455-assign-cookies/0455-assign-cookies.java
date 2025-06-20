@@ -1,18 +1,17 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        boolean[] used = new boolean[s.length]; 
         Arrays.sort(s);
-        int count = 0;
+        Arrays.sort(g);
+        int child = 0;
+        int cookie = 0;
 
-        for (int i = 0; i < g.length; i++) {
-            for (int j = 0; j < s.length; j++) {
-                if (!used[j] && s[j] >= g[i]) {
-                    used[j] = true;
-                    count++;
-                    break;
-                }
+        while (child < g.length && cookie < s.length) {
+            if (s[cookie] >= g[child]) {
+                child++;
             }
-        }
-        return count;
+            cookie++;
+        }        
+        
+        return child;
     }
 }

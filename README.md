@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raju6302/LC-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raju6302/LC-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Raju6302/LC-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raju6302/LC-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -172,6 +173,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raju6302/LC-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Raju6302/LC-Java/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Raju6302/LC-Java/tree/master/0058-length-of-last-word) |
@@ -407,6 +409,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raju6302/LC-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Raju6302/LC-Java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Raju6302/LC-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |

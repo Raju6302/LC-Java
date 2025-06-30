@@ -55,6 +55,7 @@
 | [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
@@ -118,6 +119,7 @@
 | [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
@@ -353,6 +355,7 @@
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Raju6302/LC-Java/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Raju6302/LC-Java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Raju6302/LC-Java/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -439,6 +442,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raju6302/LC-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Raju6302/LC-Java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Raju6302/LC-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Raju6302/LC-Java/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -497,6 +501,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Raju6302/LC-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |

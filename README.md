@@ -88,6 +88,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Raju6302/LC-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Raju6302/LC-Java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2479-meeting-rooms-iii](https://github.com/Raju6302/LC-Java/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Raju6302/LC-Java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Raju6302/LC-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Raju6302/LC-Java/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -360,6 +361,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Raju6302/LC-Java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Raju6302/LC-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raju6302/LC-Java/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Raju6302/LC-Java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Raju6302/LC-Java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -379,6 +381,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Raju6302/LC-Java/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Raju6302/LC-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Raju6302/LC-Java/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Raju6302/LC-Java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Raju6302/LC-Java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Raju6302/LC-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Raju6302/LC-Java/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -484,6 +487,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Raju6302/LC-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Raju6302/LC-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Raju6302/LC-Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Raju6302/LC-Java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Raju6302/LC-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Raju6302/LC-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Raju6302/LC-Java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |

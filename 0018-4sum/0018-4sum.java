@@ -15,8 +15,8 @@ class Solution {
                 while (k < l) {
                     long sum = 1L * nums[i] + nums[j] + nums[k] + nums[l];
                     if (sum == target) {
-                       result.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
-                       
+                    List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], nums[l]);
+                    result.add(temp);
                         k++;
                         l--;
                         while(k < l && nums[k] == nums[k - 1]) k++;

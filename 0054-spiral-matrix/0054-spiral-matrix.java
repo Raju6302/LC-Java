@@ -1,9 +1,9 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> sOrder = new ArrayList<>();
-        int m = matrix.length;
-        int n = matrix[0].length;
-        int top = 0, left = 0, right = n - 1, bottom = m -1;
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int top = 0, left = 0, right = m - 1, bottom = n -1;
 
         while (top <= bottom && left <= right) {
 

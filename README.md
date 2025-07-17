@@ -36,6 +36,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raju6302/LC-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raju6302/LC-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Raju6302/LC-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Raju6302/LC-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -325,6 +326,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Raju6302/LC-Java/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Raju6302/LC-Java/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raju6302/LC-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raju6302/LC-Java/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -545,6 +547,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Raju6302/LC-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Raju6302/LC-Java/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Raju6302/LC-Java/tree/master/3627-find-minimum-time-to-reach-last-room-i) |

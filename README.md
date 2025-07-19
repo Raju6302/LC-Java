@@ -69,6 +69,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Raju6302/LC-Java/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Raju6302/LC-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Raju6302/LC-Java/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Raju6302/LC-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -213,6 +214,7 @@
 | [0242-valid-anagram](https://github.com/Raju6302/LC-Java/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Raju6302/LC-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Raju6302/LC-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raju6302/LC-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -262,6 +264,7 @@
 | [0386-lexicographical-numbers](https://github.com/Raju6302/LC-Java/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Raju6302/LC-Java/tree/master/1275-validate-binary-tree-nodes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Raju6302/LC-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Raju6302/LC-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Raju6302/LC-Java/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -590,6 +593,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Raju6302/LC-Java/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Raju6302/LC-Java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Monotonic Stack
 |  |
 | ------- |

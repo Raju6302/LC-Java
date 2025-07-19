@@ -131,6 +131,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Raju6302/LC-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Raju6302/LC-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -209,6 +210,7 @@
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Raju6302/LC-Java/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Raju6302/LC-Java/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Raju6302/LC-Java/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Raju6302/LC-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -386,6 +388,7 @@
 | [0075-sort-colors](https://github.com/Raju6302/LC-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Raju6302/LC-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Raju6302/LC-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Raju6302/LC-Java/tree/master/0455-assign-cookies) |

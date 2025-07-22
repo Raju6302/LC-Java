@@ -70,6 +70,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Raju6302/LC-Java/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Raju6302/LC-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Raju6302/LC-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Raju6302/LC-Java/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Raju6302/LC-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -309,6 +310,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Raju6302/LC-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Raju6302/LC-Java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raju6302/LC-Java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

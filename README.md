@@ -64,6 +64,7 @@
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
+| [0907-koko-eating-bananas](https://github.com/Raju6302/LC-Java/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Raju6302/LC-Java/tree/master/0945-snakes-and-ladders) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -310,6 +311,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raju6302/LC-Java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Raju6302/LC-Java/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Raju6302/LC-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Raju6302/LC-Java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raju6302/LC-Java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |

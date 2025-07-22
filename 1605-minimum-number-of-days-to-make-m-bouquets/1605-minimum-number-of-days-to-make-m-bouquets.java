@@ -7,10 +7,11 @@ class Solution {
         int max = findMax(bloomDay);
 
         int low = min, high = max, ans = -1;
-        while (low <= high) {
+         while (low <= high) {
+           // for (int i = min; i <= max; i++) {
             int mid = low + (high - low) / 2;
             int result = findBloomDay(mid, bloomDay, m, k);
-
+            // if (result >= m) return i;
             if (result >= m) {
                 ans = mid;
                 high = mid - 1;

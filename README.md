@@ -227,6 +227,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Raju6302/LC-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Raju6302/LC-Java/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raju6302/LC-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Raju6302/LC-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Raju6302/LC-Java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Raju6302/LC-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -254,6 +255,7 @@
 | [0020-valid-parentheses](https://github.com/Raju6302/LC-Java/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Raju6302/LC-Java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Raju6302/LC-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Raju6302/LC-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Raju6302/LC-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
@@ -529,6 +531,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Raju6302/LC-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Raju6302/LC-Java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Raju6302/LC-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Raju6302/LC-Java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Raju6302/LC-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

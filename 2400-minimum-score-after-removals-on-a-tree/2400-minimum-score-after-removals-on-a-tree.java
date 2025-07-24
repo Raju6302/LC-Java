@@ -1,52 +1,78 @@
 class Solution {
-    int[] nums;
-    List<Integer>[] g;
-    int ans = Integer.MAX_VALUE;
-    int s;
-    int s1;
     public int minimumScore(int[] nums, int[][] edges) {
-        int n = nums.length;
-        this.nums = nums;
-        g = new List[n];
-        Arrays.setAll(g, k -> new ArrayList<>());
-        for (int[] e : edges) {
-            int a = e[0], b = e[1];
-            g[a].add(b);
-            g[b].add(a);
-        }
-        for (int x : nums) {
-            s ^= x;
-        }
-        for (int i = 0; i < n; ++i) {
-            for (int j : g[i]) {
-                s1 = dfs(i, j);
-                dfs2(i, j);
-            }
-        }
-        return ans;
+    final int n = nums.length;
+    final int xors = getXors(nums);
+    int[] subXors = nums.clone();
+    List<Integer>[] tree = new List[n];
+    Set<Integer>[] children = new Set[n];
+
+    for (int i = 0; i < n; ++i)
+      tree[i] = new ArrayList<>();
+
+    for (int i = 0; i < n; ++i)
+      children[i] = new HashSet<>(Arrays.asList(i));
+
+    for (int[] edge : edges) {
+      final int u = edge[0];
+      final int v = edge[1];
+      tree[u].add(v);
+      tree[v].add(u);
     }
 
-    int dfs(int i, int fa) {
-        int res = nums[i];
-        for (int j : g[i]) {
-            if (j != fa) {
-                res ^= dfs(j, i);
-            }
+    dfs(tree, 0, -1, subXors, children);
+
+    int ans = Integer.MAX_VALUE;
+
+    for (int i = 0; i < edges.length; ++i) {
+      int a = edges[i][0];
+      int b = edges[i][1];
+      if (children[a].contains(b)) {
+        final int temp = a;
+        a = b;
+        b = a;
+      }
+      for (int j = 0; j < i; ++j) {
+        int c = edges[j][0];
+        int d = edges[j][1];
+        if (children[c].contains(d)) {
+          final int temp = c;
+          c = d;
+          d = temp;
         }
-        return res;
+        int[] cands;
+        if (a != c && children[a].contains(c))
+          cands = new int[] {subXors[c], subXors[a] ^ subXors[c], xors ^ subXors[a]};
+        else if (a != c && children[c].contains(a))
+          cands = new int[] {subXors[a], subXors[c] ^ subXors[a], xors ^ subXors[c]};
+        else
+          cands = new int[] {subXors[a], subXors[c], xors ^ subXors[a] ^ subXors[c]};
+        ans = Math.min(ans, Arrays.stream(cands).max().getAsInt() -
+                                Arrays.stream(cands).min().getAsInt());
+      }
     }
 
-    int dfs2(int i, int fa) {
-        int res = nums[i];
-        for (int j : g[i]) {
-            if (j != fa) {
-                int s2 = dfs2(j, i);
-                res ^= s2;
-                int mx = Math.max(Math.max(s ^ s1, s2), s1 ^ s2);
-                int mn = Math.min(Math.min(s ^ s1, s2), s1 ^ s2);
-                ans = Math.min(ans, mx - mn);
-            }
-        }
-        return res;
+    return ans;
+     }
+
+   Pair<Integer, Set<Integer>> dfs(List<Integer>[] tree, int u, int prev, int[] subXors,
+                                          Set<Integer>[] children) {
+    for (final int v : tree[u]) {
+      if (v == prev)
+        continue;
+      final Pair<Integer, Set<Integer>> pair = dfs(tree, v, u, subXors, children);
+      final int vXor = pair.getKey();
+      final Set<Integer> vChildren = pair.getValue();
+      subXors[u] ^= vXor;
+      for (final int child : vChildren)
+        children[u].add(child);
     }
+    return new Pair<>(subXors[u], children[u]);
+  }
+
+   int getXors(int[] nums) {
+    int xors = 0;
+    for (final int num : nums)
+      xors ^= num;
+    return xors;
+}
 }

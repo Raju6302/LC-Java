@@ -69,6 +69,7 @@
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/Raju6302/LC-Java/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Raju6302/LC-Java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Raju6302/LC-Java/tree/master/0945-snakes-and-ladders) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -366,6 +367,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Raju6302/LC-Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Raju6302/LC-Java/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Raju6302/LC-Java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Raju6302/LC-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Raju6302/LC-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -457,6 +459,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Raju6302/LC-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Raju6302/LC-Java/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Raju6302/LC-Java/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Raju6302/LC-Java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Raju6302/LC-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Raju6302/LC-Java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Raju6302/LC-Java/tree/master/2061-painting-a-grid-with-three-different-colors) |

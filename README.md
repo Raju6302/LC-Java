@@ -71,6 +71,7 @@
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/Raju6302/LC-Java/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raju6302/LC-Java/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Raju6302/LC-Java/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Raju6302/LC-Java/tree/master/0945-snakes-and-ladders) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Raju6302/LC-Java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -158,6 +159,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
+| [0940-fruit-into-baskets](https://github.com/Raju6302/LC-Java/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Raju6302/LC-Java/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Raju6302/LC-Java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Raju6302/LC-Java/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -545,6 +547,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raju6302/LC-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raju6302/LC-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Raju6302/LC-Java/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Raju6302/LC-Java/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raju6302/LC-Java/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Raju6302/LC-Java/tree/master/2394-count-subarrays-with-score-less-than-k) |

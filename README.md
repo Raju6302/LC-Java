@@ -69,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raju6302/LC-Java/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Raju6302/LC-Java/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Raju6302/LC-Java/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Raju6302/LC-Java/tree/master/0816-design-hashset) |
@@ -220,6 +221,7 @@
 | [0326-power-of-three](https://github.com/Raju6302/LC-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Raju6302/LC-Java/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Raju6302/LC-Java/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Raju6302/LC-Java/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Raju6302/LC-Java/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Raju6302/LC-Java/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Raju6302/LC-Java/tree/master/0867-new-21-game) |
@@ -513,6 +515,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Raju6302/LC-Java/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Raju6302/LC-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raju6302/LC-Java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Raju6302/LC-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

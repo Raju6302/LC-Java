@@ -65,6 +65,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Raju6302/LC-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Raju6302/LC-Java/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Raju6302/LC-Java/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Raju6302/LC-Java/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Raju6302/LC-Java/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raju6302/LC-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raju6302/LC-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raju6302/LC-Java/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Raju6302/LC-Java/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Raju6302/LC-Java/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raju6302/LC-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Raju6302/LC-Java/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -682,6 +684,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Raju6302/LC-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Raju6302/LC-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Raju6302/LC-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Raju6302/LC-Java/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Raju6302/LC-Java/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raju6302/LC-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Raju6302/LC-Java/tree/master/1628-count-submatrices-with-all-ones) |
